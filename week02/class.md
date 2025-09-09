@@ -84,7 +84,7 @@ def make_windows_partial_overlap(df_part, window_size=WINDOW_SIZE, step=STEP):
 X, y = make_windows_partial_overlap(df)
 print("X shape:", X.shape)  # (윈도우 개수, 3, window_size)
 print("y:", y)
-
+```
 X shape: (4, 3, 4)
 y: [0 0 0 0]
 
