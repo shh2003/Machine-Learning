@@ -71,3 +71,15 @@ y = F(x) + x
 | **ResNet** | Skip Connection | 입력을 다음 층에 더함 → 기울기 소실 해결 |
 | **SENet** | Skip + Channel Attention | 채널 중요도(가중치) 학습 |
 | **Xception** | Depthwise + Pointwise Conv | 채널별 필터 분리로 효율적 계산 |
+
+
+
+
+
+---
+
+
+
+seq to seq model
+- 번역기
+- 
